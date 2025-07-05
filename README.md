@@ -1,5 +1,6 @@
 DEMO OF THE PROJECT
 ![image](https://github.com/Yuvgithub01/AI-Exam-proctoring-system/blob/0424da5314a643808de617d579ca2b592c434d35/WhatsApp%20Image%202025-07-05%20at%205.28.10%20PM%20(1).jpeg)
+![image](https://github.com/Yuvgithub01/AI-Exam-proctoring-system/blob/1f2c777c9ed4e8d31a8d83d0c5c11173af5428f9/WhatsApp%20Image%202025-07-05%20at%205.28.09%20PM.jpeg)
 
 
 
