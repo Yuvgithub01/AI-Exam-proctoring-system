@@ -1,2 +1,4 @@
+// filepath: c:\Users\yuvra\Downloads\proctoring-main\proctoring-main\.gitignore
 *.bak
 __pycache__/
+venv/
